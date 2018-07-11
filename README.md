@@ -1,2 +1,2 @@
-# responsiveGridCssWebsiteExample
-responsive grid website layout from using HTML and CSS
+# Responsive Grid Website Example
+responsive grid website layout using HTML and CSS
